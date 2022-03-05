@@ -7,7 +7,7 @@
 **PJ0-2** : PintOS Data Structures
 > List, Hash Table, Bitmap 등의 PintOS 자료구조 구현
 
-**PJ01** : User Program(1)
+**PJ01** : User Program (1)
 > Argument Passing
 
 > User Memory Access
@@ -18,7 +18,7 @@
 
 > Additional Implementation
 
-**PJ02** : User Program(2)
+**PJ02** : User Program (2)
 > Base File System
 
 > File System Call Implementation
